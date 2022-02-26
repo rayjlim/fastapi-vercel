@@ -2,10 +2,10 @@
 
 This is [FastAPI](https://fastapi.tiangolo.com/) example app deployed on [Vercel](https://vercel.com/).
 
-### Requirements
+## Requirements
 
--   Vercel account
--   [Vercel CLI](https://vercel.com/cli)
+- Vercel account
+- [Vercel CLI](https://vercel.com/cli)
 
 ### Setup
 
@@ -30,3 +30,9 @@ pip install -r requirements.txt
 vercel
 ```
 
+---
+
+## Development
+
+1. `pipenv` then `pipenv install`
+2. Run server `uvicorn app:app --reload`
