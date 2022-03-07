@@ -21,6 +21,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
 @app.get("/", response_class=HTMLResponse)
 def index(request: Request, username: str = None):
     if not username:
@@ -32,36 +33,38 @@ def index(request: Request, username: str = None):
 
     return templates.TemplateResponse("index.html", context=context)
 
+
 @app.get("/items/{item_id}")
 async def read_item(item_id: int):
     return {"item_id": item_id}
 
-@app.get("/quotes/")
+@app.get("/prompts/")
 async def get_quote():
-    text_file = open("quotes.json", "r")
+    text_file = open("prompts.json", "r")
     data = json.load(text_file)
-    
-    # data = text_file.read()    
     text_file.close()
-    
+
     return data
 
-class Message:
-  def __init__(self, message, author):
-    self.message = message
-    self.author = author
 
-def mapMessage(item):
-    return Message(item['quote'], item['author'])
+# class Prompt:
+#     def __init__(self, prompt, category):
+#         self.prompt = prompt
+#         self.category = category
 
-@app.get("/quote/")
+
+# def mapPrompt(item):
+#     return Prompt(item["prompt"], item["category"])
+
+
+@app.get("/prompt/")
 async def get_quote():
-    text_file = open("quotes.json", "r")
+    text_file = open("prompts.json", "r")
     data = json.load(text_file)
     text_file.close()
-    result = list(map(mapMessage, data['quotes']))
-    # return data
-    return random.choice(result)
+    # result = list(map(mapPrompt, data["prompts"]))
+    # return random.choice(result)
+    return random.choice(data['prompts'])
 
 
 @app.get("/{username}", response_model=models.GithubUserModel)
@@ -69,7 +72,8 @@ def get_github_profile(request: Request, username: str) -> Optional[models.Githu
 
     headers = {"accept": "application/vnd.github.v3+json"}
 
-    response = httpx.get(f"https://api.github.com/users/{username}", headers=headers)
+    response = httpx.get(
+        f"https://api.github.com/users/{username}", headers=headers)
 
     if response.status_code == 404:
         return False
@@ -77,7 +81,7 @@ def get_github_profile(request: Request, username: str) -> Optional[models.Githu
     user = models.GithubUserModel(**response.json())
 
     # Sobreescribir la fecha con el formato que necesitamos
-    user.created_at = datetime.strptime(user.created_at, "%Y-%m-%dT%H:%M:%SZ").strftime("%d/%m/%y")
+    user.created_at = datetime.strptime(
+        user.created_at, "%Y-%m-%dT%H:%M:%SZ").strftime("%d/%m/%y")
 
     return user
-

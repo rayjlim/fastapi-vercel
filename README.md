@@ -34,5 +34,8 @@ vercel
 
 ## Development
 
-1. `pipenv` then `pipenv install`
+1. `pipenv install` then `pipenv shell`
 2. Run server `uvicorn app:app --reload`
+3. Visit `http://localhost:8000/prompt/`
+
+
