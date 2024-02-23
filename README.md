@@ -2,6 +2,10 @@
 
 This is [FastAPI](https://fastapi.tiangolo.com/) example app deployed on [Vercel](https://vercel.com/).
 
+## Technology
+
+Uses Python Fastapi framework
+
 ## Requirements
 
 - Vercel account
