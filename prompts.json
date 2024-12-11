@@ -1,366 +1,366 @@
 {
     "prompts": [
         {
-            "pro": "What do I know to be true that I didn't know a year ago?",
+            "prompt": "What do I know to be true that I didn't know a year ago?",
             "cat": "General"
         },
         {
-            "pro": "What distractions get in the way of being my most productive?",
+            "prompt": "What distractions get in the way of being my most productive?",
             "cat": "General"
         },
         {
-            "pro": "When do I feel most in tune with myself?",
+            "prompt": "When do I feel most in tune with myself?",
             "cat": "General"
         },
         {
-            "pro": "If someone described me, what would they say?",
+            "prompt": "If someone described me, what would they say?",
             "cat": "General"
         },
         {
-            "pro": "What can wait until next week?",
+            "prompt": "What can wait until next week?",
             "cat": "General"
         },
         {
-            "pro": "How does every part of my body feel in this moment?",
+            "prompt": "How does every part of my body feel in this moment?",
             "cat": "General"
         },
         {
-            "pro": "Journaling Prompts for Managing Emotions:",
+            "prompt": "Journaling Prompts for Managing Emotions:",
             "cat": "General"
         },
         {
-            "pro": "What emotions am I holding on to?",
+            "prompt": "What emotions am I holding on to?",
             "cat": "General"
         },
         {
-            "pro": "How can I detach or neutralize this emotion?",
+            "prompt": "How can I detach or neutralize this emotion?",
             "cat": "General"
         },
         {
-            "pro": "Why am I doing X?",
+            "prompt": "Why am I doing X?",
             "cat": "General"
         },
         {
-            "pro": "Why am I feeling this way?",
+            "prompt": "Why am I feeling this way?",
             "cat": "General"
         },
         {
-            "pro": "What is causing these feelings?",
+            "prompt": "What is causing these feelings?",
             "cat": "General"
         },
         {
-            "pro": "Have I tried to take my ego out of the situation?",
+            "prompt": "Have I tried to take my ego out of the situation?",
             "cat": "General"
         },
         {
-            "pro": "How can I detach my emotions from the behavior of others?",
+            "prompt": "How can I detach my emotions from the behavior of others?",
             "cat": "General"
         },
         {
-            "pro": "Did I use healthy boundaries before I began feeling this way?",
+            "prompt": "Did I use healthy boundaries before I began feeling this way?",
             "cat": "General"
         },
         {
-            "pro": "Journaling Prompts for Anxiety and Depression",
+            "prompt": "Journaling Prompts for Anxiety and Depression",
             "cat": "General"
         },
         {
-            "pro": "What hurts right now? How can I find relief?",
+            "prompt": "What hurts right now? How can I find relief?",
             "cat": "General"
         },
         {
-            "pro": "When I look in the mirror, what do I see?",
+            "prompt": "When I look in the mirror, what do I see?",
             "cat": "General"
         },
         {
-            "pro": "What are the things in my home that are the most “me”?",
+            "prompt": "What are the things in my home that are the most “me”?",
             "cat": "General"
         },
         {
-            "pro": "What am I doing right now?",
+            "prompt": "What am I doing right now?",
             "cat": "General"
         },
         {
-            "pro": "What happened before I felt a shift in my mood?",
+            "prompt": "What happened before I felt a shift in my mood?",
             "cat": "General"
         },
         {
-            "pro": "Write down an entire list of what you are worried about. Star the items that you know are 100% true and not solely a feeling.",
+            "prompt": "Write down an entire list of what you are worried about. Star the items that you know are 100% true and not solely a feeling.",
             "cat": "General"
         },
         {
-            "pro": "Who do you trust most? Why?",
+            "prompt": "Who do you trust most? Why?",
             "cat": "Love and Relationships"
         },
         {
-            "pro": "What are your strengths in relationships (kindness, empathy, etc.)?",
+            "prompt": "What are your strengths in relationships (kindness, empathy, etc.)?",
             "cat": "Love and Relationships"
         },
         {
-            "pro": "How do you draw strength from loved ones?",
+            "prompt": "How do you draw strength from loved ones?",
             "cat": "Love and Relationships"
         },
         {
-            "pro": "What do you value most in relationships (trust, respect, sense of humor, etc.)?",
+            "prompt": "What do you value most in relationships (trust, respect, sense of humor, etc.)?",
             "cat": "Love and Relationships"
         },
         {
-            "pro": "What three important things have you learned from previous relationships?",
+            "prompt": "What three important things have you learned from previous relationships?",
             "cat": "Love and Relationships"
         },
         {
-            "pro": "What five traits do you value most in potential partners?",
+            "prompt": "What five traits do you value most in potential partners?",
             "cat": "Love and Relationships"
         },
         {
-            "pro": "How do you show compassion to others? How can you extend that same compassion to yourself?",
+            "prompt": "How do you show compassion to others? How can you extend that same compassion to yourself?",
             "cat": "Love and Relationships"
         },
         {
-            "pro": "What are three things working well in your current relationship? What are three things that could be better",
+            "prompt": "What are three things working well in your current relationship? What are three things that could be better",
             "cat": "Love and Relationships"
         },
         {
-            "pro": "What boundaries could you set in your relationships to safeguard your own well-being?",
+            "prompt": "What boundaries could you set in your relationships to safeguard your own well-being?",
             "cat": "Love and Relationships"
         },
         {
-            "pro": "What do you most want your children (or future children) to learn from you?",
+            "prompt": "What do you most want your children (or future children) to learn from you?",
             "cat": "Love and Relationships"
         },
         {
-            "pro": "How can you better support and appreciate your loved ones?",
+            "prompt": "How can you better support and appreciate your loved ones?",
             "cat": "Love and Relationships"
         },
         {
-            "pro": "What does love mean to you? How do you recognize it in a relationship?",
+            "prompt": "What does love mean to you? How do you recognize it in a relationship?",
             "cat": "Love and Relationships"
         },
         {
-            "pro": "List three things you'd like to tell a friend, family member, or partner.",
+            "prompt": "List three things you'd like to tell a friend, family member, or partner.",
             "cat": "Love and Relationships"
         },
         {
-            "pro": "How do you use your personal strengths and abilities at work?",
+            "prompt": "How do you use your personal strengths and abilities at work?",
             "cat": "Work and career"
         },
         {
-            "pro": "How do your co-workers and supervisors recognize your strengths?",
+            "prompt": "How do your co-workers and supervisors recognize your strengths?",
             "cat": "Work and career"
         },
         {
-            "pro": "How does work fulfill you? Does it leave you wanting more?",
+            "prompt": "How does work fulfill you? Does it leave you wanting more?",
             "cat": "Work and career"
         },
         {
-            "pro": "What part of your workday do you most enjoy?",
+            "prompt": "What part of your workday do you most enjoy?",
             "cat": "Work and career"
         },
         {
-            "pro": "What about your work feels real, necessary, or important to you?",
+            "prompt": "What about your work feels real, necessary, or important to you?",
             "cat": "Work and career"
         },
         {
-            "pro": "Do you see yourself in the same job in 10 years?",
+            "prompt": "Do you see yourself in the same job in 10 years?",
             "cat": "Work and career"
         },
         {
-            "pro": "What are your career ambitions?",
+            "prompt": "What are your career ambitions?",
             "cat": "Work and career"
         },
         {
-            "pro": "What three things can help you begin working to accomplish those goals?",
+            "prompt": "What three things can help you begin working to accomplish those goals?",
             "cat": "Work and career"
         },
         {
-            "pro": "What can you do to improve your work performance?",
+            "prompt": "What can you do to improve your work performance?",
             "cat": "Work and career"
         },
         {
-            "pro": "What does your work teach you? Does it offer continued opportunities for learning and growth?",
+            "prompt": "What does your work teach you? Does it offer continued opportunities for learning and growth?",
             "cat": "Work and career"
         },
         {
-            "pro": "Does your work drain or overwhelm you? Why? Is this something you can change?",
+            "prompt": "Does your work drain or overwhelm you? Why? Is this something you can change?",
             "cat": "Work and career"
         },
         {
-            "pro": "What values do you consider most important in life (honesty, justice, altruism, loyalty, etc.)? How do your actions align with those values?",
+            "prompt": "What values do you consider most important in life (honesty, justice, altruism, loyalty, etc.)? How do your actions align with those values?",
             "cat": "Self-reflection"
         },
         {
-            "pro": "What three changes can you make to live according to your personal values?",
+            "prompt": "What three changes can you make to live according to your personal values?",
             "cat": "Self-reflection"
         },
         {
-            "pro": "Describe yourself using the first 10 words that come to mind. Then, list 10 words that you'd like to use to describe yourself. List a few ways to transform those descriptions into reality.",
+            "prompt": "Describe yourself using the first 10 words that come to mind. Then, list 10 words that you'd like to use to describe yourself. List a few ways to transform those descriptions into reality.",
             "cat": "Self-reflection"
         },
         {
-            "pro": "What do you appreciate most about your personality? What aspects do you find harder to accept?",
+            "prompt": "What do you appreciate most about your personality? What aspects do you find harder to accept?",
             "cat": "Self-reflection"
         },
         {
-            "pro": "Explore an opinion or two that you held in the past but have since questioned or changed. What led you to change that opinion?",
+            "prompt": "Explore an opinion or two that you held in the past but have since questioned or changed. What led you to change that opinion?",
             "cat": "Self-reflection"
         },
         {
-            "pro": "List three personal beliefs that you're willing to reconsider or further explore.",
+            "prompt": "List three personal beliefs that you're willing to reconsider or further explore.",
             "cat": "Self-reflection"
         },
         {
-            "pro": "Finish this sentence: “My life would be incomplete without …”",
+            "prompt": "Finish this sentence: “My life would be incomplete without …”",
             "cat": "Self-reflection"
         },
         {
-            "pro": "Describe one or two significant life events that helped shape you into who you are today.",
+            "prompt": "Describe one or two significant life events that helped shape you into who you are today.",
             "cat": "Self-reflection"
         },
         {
-            "pro": "When do you trust yourself most? When do you find it harder to have faith in your instincts?",
+            "prompt": "When do you trust yourself most? When do you find it harder to have faith in your instincts?",
             "cat": "Self-reflection"
         },
         {
-            "pro": "What three things would you most like others (loved ones, potential friends and partners, professional acquaintances, etc.) to know about you?",
+            "prompt": "What three things would you most like others (loved ones, potential friends and partners, professional acquaintances, etc.) to know about you?",
             "cat": "Self-reflection"
         },
         {
-            "pro": "What difficult thoughts or emotions come up most frequently for you?",
+            "prompt": "What difficult thoughts or emotions come up most frequently for you?",
             "cat": "Uncomfortable emotions"
         },
         {
-            "pro": "Which emotions do you find hardest to accept (guilt, anger, disappointment, etc.)? How do you handle these emotions?",
+            "prompt": "Which emotions do you find hardest to accept (guilt, anger, disappointment, etc.)? How do you handle these emotions?",
             "cat": "Uncomfortable emotions"
         },
         {
-            "pro": "Describe a choice you regret. What did you learn from it?",
+            "prompt": "Describe a choice you regret. What did you learn from it?",
             "cat": "Uncomfortable emotions"
         },
         {
-            "pro": "What parts of daily life cause stress, frustration, or sadness? What can you do to change those experiences?",
+            "prompt": "What parts of daily life cause stress, frustration, or sadness? What can you do to change those experiences?",
             "cat": "Uncomfortable emotions"
         },
         {
-            "pro": "What are three things that can instantly disrupt a good mood and bring you down? What strategies do you use to counter these effects?",
+            "prompt": "What are three things that can instantly disrupt a good mood and bring you down? What strategies do you use to counter these effects?",
             "cat": "Uncomfortable emotions"
         },
         {
-            "pro": "What are three self-defeating thoughts that show up in your self-talk? How can you reframe them to encourage yourself instead?",
+            "prompt": "What are three self-defeating thoughts that show up in your self-talk? How can you reframe them to encourage yourself instead?",
             "cat": "Uncomfortable emotions"
         },
         {
-            "pro": "What go-to coping strategies help you get through moments of emotional or physical pain?",
+            "prompt": "What go-to coping strategies help you get through moments of emotional or physical pain?",
             "cat": "Uncomfortable emotions"
         },
         {
-            "pro": "Who do you trust with your most painful and upsetting feelings? How can you connect with them when feeling low?",
+            "prompt": "Who do you trust with your most painful and upsetting feelings? How can you connect with them when feeling low?",
             "cat": "Uncomfortable emotions"
         },
         {
-            "pro": "What do you fear most? Have your fears changed throughout life?",
+            "prompt": "What do you fear most? Have your fears changed throughout life?",
             "cat": "Uncomfortable emotions"
         },
         {
-            "pro": "Describe your favorite thing to do when feeling low.",
+            "prompt": "Describe your favorite thing to do when feeling low.",
             "cat": "Living your best life"
         },
         {
-            "pro": "What three ordinary things bring you the most joy?",
+            "prompt": "What three ordinary things bring you the most joy?",
             "cat": "Living your best life"
         },
         {
-            "pro": "List three strategies that help you stay present in your daily routines. Then, list three strategies to help boost mindfulness in your life.",
+            "prompt": "List three strategies that help you stay present in your daily routines. Then, list three strategies to help boost mindfulness in your life.",
             "cat": "Living your best life"
         },
         {
-            "pro": "How do you prioritize self-care?",
+            "prompt": "How do you prioritize self-care?",
             "cat": "Living your best life"
         },
         {
-            "pro": "Describe two or three things you do to relax.",
+            "prompt": "Describe two or three things you do to relax.",
             "cat": "Living your best life"
         },
         {
-            "pro": "What aspects of your life are you most grateful for?",
+            "prompt": "What aspects of your life are you most grateful for?",
             "cat": "Living your best life"
         },
         {
-            "pro": "How do you show yourself kindness and compassion each day?",
+            "prompt": "How do you show yourself kindness and compassion each day?",
             "cat": "Living your best life"
         },
         {
-            "pro": "Write a short love letter to some object or place that makes you happy.",
+            "prompt": "Write a short love letter to some object or place that makes you happy.",
             "cat": "Living your best life"
         },
         {
-            "pro": "What place makes you feel most peaceful? Describe that place using all five senses.",
+            "prompt": "What place makes you feel most peaceful? Describe that place using all five senses.",
             "cat": "Living your best life"
         },
         {
-            "pro": "List 10 things that inspire or motivate you.",
+            "prompt": "List 10 things that inspire or motivate you.",
             "cat": "Living your best life"
         },
         {
-            "pro": "What are your favorite hobbies? Why?",
+            "prompt": "What are your favorite hobbies? Why?",
             "cat": "Living your best life"
         },
         {
-            "pro": "What parts of life surprised you most? What turned out the way you expected it would?",
+            "prompt": "What parts of life surprised you most? What turned out the way you expected it would?",
             "cat": "Personal growth and life goals"
         },
         {
-            "pro": "What three things would you share with your teenage self? What three questions would you want to ask an older version of yourself?",
+            "prompt": "What three things would you share with your teenage self? What three questions would you want to ask an older version of yourself?",
             "cat": "Personal growth and life goals"
         },
         {
-            "pro": "List three important goals. How do they match up to your goals from 5 years ago?",
+            "prompt": "List three important goals. How do they match up to your goals from 5 years ago?",
             "cat": "Personal growth and life goals"
         },
         {
-            "pro": "Do your goals truly reflect your desires? Or do they reflect what someone else (a parent, partner, friend, etc.) wants for you?",
+            "prompt": "Do your goals truly reflect your desires? Or do they reflect what someone else (a parent, partner, friend, etc.) wants for you?",
             "cat": "Personal growth and life goals"
         },
         {
-            "pro": "What helps you stay focused and motivated when you feel discouraged?",
+            "prompt": "What helps you stay focused and motivated when you feel discouraged?",
             "cat": "Personal growth and life goals"
         },
         {
-            "pro": "What do you look forward to most in the future?",
+            "prompt": "What do you look forward to most in the future?",
             "cat": "Personal growth and life goals"
         },
         {
-            "pro": "Identify one area where you'd like to improve. Then, list three specific actions you can take to create that change.",
+            "prompt": "Identify one area where you'd like to improve. Then, list three specific actions you can take to create that change.",
             "cat": "Personal growth and life goals"
         },
         {
-            "pro": "How do you make time for yourself each day?",
+            "prompt": "How do you make time for yourself each day?",
             "cat": "Personal growth and life goals"
         },
         {
-            "pro": "What do you most want to accomplish in life?",
+            "prompt": "What do you most want to accomplish in life?",
             "cat": "Personal growth and life goals"
         },
         {
-            "pro": "List three obstacles lying in the way of your contentment or happiness. Then, list two potential solutions to begin overcoming each obstacle.",
+            "prompt": "List three obstacles lying in the way of your contentment or happiness. Then, list two potential solutions to begin overcoming each obstacle.",
             "cat": "Personal growth and life goals"
         },
-        {"pro": "What song tends to make you tear up?", "cat": "Living your best life"},
-        {"pro": "What are the two most important things for people to be happy?", "cat": "Self-reflection"},
-        {"pro": "Describe a time when you did something truly kind for another person?", "cat": "Love and Relationships"},
-        {"pro": "Do you think people ever really change?", "cat": "Uncomfortable emotions"},
-        {"pro": "If you had enough money to retire tomorrow, what would you do for the rest of your life?", "cat": "Self-reflection"},
-        {"pro": "Are you more or less romantic than most people?", "cat": "Self-reflection"},
-        {"pro": "What item on your long-term to-do list do you never seem to get to?", "cat": "Self-reflection"},
+        {"prompt": "What song tends to make you tear up?", "cat": "Living your best life"},
+        {"prompt": "What are the two most important things for people to be happy?", "cat": "Self-reflection"},
+        {"prompt": "Describe a time when you did something truly kind for another person?", "cat": "Love and Relationships"},
+        {"prompt": "Do you think people ever really change?", "cat": "Uncomfortable emotions"},
+        {"prompt": "If you had enough money to retire tomorrow, what would you do for the rest of your life?", "cat": "Self-reflection"},
+        {"prompt": "Are you more or less romantic than most people?", "cat": "Self-reflection"},
+        {"prompt": "What item on your long-term to-do list do you never seem to get to?", "cat": "Self-reflection"},
 
-        {"pro": "Are you glad to be living in the modern day and age, or do you with you'd lived during a past era?","cat": "General"},
-        {"pro": "If there were suddenly 28 hours in a day, how would you spend the extra hours?","cat": "General"},
-        {"pro": "Do you enjoy working from home?", "cat": "Work and career"},
-        {"pro": "Is there any talent that seems to be passed down in your family?", "cat": "Living your best life"},
-        {"pro": "If you could have 1 million of anything except money, what would you choose?", "cat": "Living your best life"},
-        {"pro": "Have you ever had a really strange or memorable neighbor or roommate?", "cat": "Uncomfortable emotions"},
-        {"pro": "Has there ever been a time when you thought, `It doesn't get any better than this?`", "cat": "Living your best life"},
-        {"pro": "What book changed your life?", "cat": "Living your best life"},
-        {"pro": "If you were hiring someone, what would the three most important criteria be?", "cat": "Work and career"},
-        {"pro": "Have you ever had a crush on a celebrity? Who?", "cat": "Love and Relationships"}
+        {"prompt": "Are you glad to be living in the modern day and age, or do you with you'd lived during a past era?","cat": "General"},
+        {"prompt": "If there were suddenly 28 hours in a day, how would you spend the extra hours?","cat": "General"},
+        {"prompt": "Do you enjoy working from home?", "cat": "Work and career"},
+        {"prompt": "Is there any talent that seems to be passed down in your family?", "cat": "Living your best life"},
+        {"prompt": "If you could have 1 million of anything except money, what would you choose?", "cat": "Living your best life"},
+        {"prompt": "Have you ever had a really strange or memorable neighbor or roommate?", "cat": "Uncomfortable emotions"},
+        {"prompt": "Has there ever been a time when you thought, `It doesn't get any better than this?`", "cat": "Living your best life"},
+        {"prompt": "What book changed your life?", "cat": "Living your best life"},
+        {"prompt": "If you were hiring someone, what would the three most important criteria be?", "cat": "Work and career"},
+        {"prompt": "Have you ever had a crush on a celebrity? Who?", "cat": "Love and Relationships"}
     ]
 }

@@ -64,7 +64,7 @@ async def get_quote():
     text_file.close()
     # result = list(map(mapPrompt, data["prompts"]))
     # return random.choice(result)
-    return random.choice(data['pro'])
+    return random.choice(data['prompts'])
 
 
 @app.get("/{username}", response_model=models.GithubUserModel)
