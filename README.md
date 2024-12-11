@@ -45,4 +45,5 @@ Uses Python Fastapi framework
 ## Status
 
 2023-04-23 Problems setting up virtual env (venv, pipenv) on windows
+
 - try stripping requirements, make sure python version in pipfile matches `python -v`
